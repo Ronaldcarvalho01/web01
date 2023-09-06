@@ -6,17 +6,14 @@
 
 p {
     font-size: 2rem;
-
-
-    
+    font-weight: lighter;
+    font-style: italic;
+    text-shadow: 5px 5px 5px blue;
+    text-align: center;
+    text-indent: -400px;
+    line-height: 1;
 }
-    font-size: 2rem;
 
+body {background-color: chartreuse;}
 
-
-h1 {
-    font-size: 3.2rem;
-    font-weight: 900;
-    text-shadow: 5px 5px 50px ;
-}
 
